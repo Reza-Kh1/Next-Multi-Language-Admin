@@ -1,0 +1,1890 @@
+[
+    {
+        "name": "threedsmax",
+        "icon": "plain"
+    },
+    {
+        "name": "aarch64",
+        "icon": "plain"
+    },
+    {
+        "name": "adonisjs",
+        "icon": "plain"
+    },
+    {
+        "name": "aftereffects",
+        "icon": "plain"
+    },
+    {
+        "name": "akka",
+        "icon": "plain"
+    },
+    {
+        "name": "algolia",
+        "icon": "original"
+    },
+    {
+        "name": "alpinejs",
+        "icon": "plain"
+    },
+    {
+        "name": "amazonwebservices",
+        "icon": "plain"
+    },
+    {
+        "name": "anaconda",
+        "icon": "plain"
+    },
+    {
+        "name": "android",
+        "icon": "plain"
+    },
+    {
+        "name": "androidstudio",
+        "icon": "plain"
+    },
+    {
+        "name": "angular",
+        "icon": "plain"
+    },
+    {
+        "name": "angularjs",
+        "icon": "plain"
+    },
+    {
+        "name": "angularmaterial",
+        "icon": "plain"
+    },
+    {
+        "name": "ansible",
+        "icon": "plain"
+    },
+    {
+        "name": "antdesign",
+        "icon": "plain"
+    },
+    {
+        "name": "apache",
+        "icon": "plain"
+    },
+    {
+        "name": "apacheairflow",
+        "icon": "plain"
+    },
+    {
+        "name": "apachekafka",
+        "icon": "plain"
+    },
+    {
+        "name": "apachespark",
+        "icon": "plain"
+    },
+    {
+        "name": "apl",
+        "icon": "plain"
+    },
+    {
+        "name": "appcelerator",
+        "icon": "plain"
+    },
+    {
+        "name": "apple",
+        "icon": "plain"
+    },
+    {
+        "name": "appwrite",
+        "icon": "plain"
+    },
+    {
+        "name": "archlinux",
+        "icon": "plain"
+    },
+    {
+        "name": "arduino",
+        "icon": "plain"
+    },
+    {
+        "name": "argocd",
+        "icon": "plain"
+    },
+    {
+        "name": "astro",
+        "icon": "plain"
+    },
+    {
+        "name": "atom",
+        "icon": "plain"
+    },
+    {
+        "name": "awk",
+        "icon": "plain"
+    },
+    {
+        "name": "axios",
+        "icon": "plain"
+    },
+    {
+        "name": "azure",
+        "icon": "plain"
+    },
+    {
+        "name": "azuredevops",
+        "icon": "plain"
+    },
+    {
+        "name": "azuresqldatabase",
+        "icon": "plain"
+    },
+    {
+        "name": "babel",
+        "icon": "plain"
+    },
+    {
+        "name": "backbonejs",
+        "icon": "plain"
+    },
+    {
+        "name": "ballerina",
+        "icon": "plain"
+    },
+    {
+        "name": "bamboo",
+        "icon": "plain"
+    },
+    {
+        "name": "bash",
+        "icon": "plain"
+    },
+    {
+        "name": "beats",
+        "icon": "plain"
+    },
+    {
+        "name": "behance",
+        "icon": "plain"
+    },
+    {
+        "name": "bitbucket",
+        "icon": "plain"
+    },
+    {
+        "name": "blazor",
+        "icon": "plain"
+    },
+    {
+        "name": "blender",
+        "icon": "original"
+    },
+    {
+        "name": "bootstrap",
+        "icon": "plain"
+    },
+    {
+        "name": "bower",
+        "icon": "plain"
+    },
+    {
+        "name": "browserstack",
+        "icon": "plain"
+    },
+    {
+        "name": "bulma",
+        "icon": "plain"
+    },
+    {
+        "name": "bun",
+        "icon": "plain"
+    },
+    {
+        "name": "c",
+        "icon": "plain"
+    },
+    {
+        "name": "cairo",
+        "icon": "plain"
+    },
+    {
+        "name": "cakephp",
+        "icon": "plain"
+    },
+    {
+        "name": "canva",
+        "icon": "plain"
+    },
+    {
+        "name": "capacitor",
+        "icon": "plain"
+    },
+    {
+        "name": "carbon",
+        "icon": "plain"
+    },
+    {
+        "name": "cassandra",
+        "icon": "plain"
+    },
+    {
+        "name": "centos",
+        "icon": "plain"
+    },
+    {
+        "name": "ceylon",
+        "icon": "plain"
+    },
+    {
+        "name": "chrome",
+        "icon": "plain"
+    },
+    {
+        "name": "circleci",
+        "icon": "plain"
+    },
+    {
+        "name": "clarity",
+        "icon": "plain"
+    },
+    {
+        "name": "clion",
+        "icon": "plain"
+    },
+    {
+        "name": "clojure",
+        "icon": "plain"
+    },
+    {
+        "name": "clojurescript",
+        "icon": "plain"
+    },
+    {
+        "name": "cloudflare",
+        "icon": "plain"
+    },
+    {
+        "name": "cloudflareworkers",
+        "icon": "plain"
+    },
+    {
+        "name": "cmake",
+        "icon": "plain"
+    },
+    {
+        "name": "codeac",
+        "icon": "original"
+    },
+    {
+        "name": "codecov",
+        "icon": "plain"
+    },
+    {
+        "name": "codeigniter",
+        "icon": "plain"
+    },
+    {
+        "name": "codepen",
+        "icon": "plain"
+    },
+    {
+        "name": "coffeescript",
+        "icon": "plain"
+    },
+    {
+        "name": "composer",
+        "icon": "plain"
+    },
+    {
+        "name": "confluence",
+        "icon": "plain"
+    },
+    {
+        "name": "consul",
+        "icon": "plain"
+    },
+    {
+        "name": "contao",
+        "icon": "original"
+    },
+    {
+        "name": "corejs",
+        "icon": "plain"
+    },
+    {
+        "name": "cosmosdb",
+        "icon": "plain"
+    },
+    {
+        "name": "couchbase",
+        "icon": "plain"
+    },
+    {
+        "name": "couchdb",
+        "icon": "plain"
+    },
+    {
+        "name": "cplusplus",
+        "icon": "plain"
+    },
+    {
+        "name": "crystal",
+        "icon": "plain"
+    },
+    {
+        "name": "csharp",
+        "icon": "plain"
+    },
+    {
+        "name": "css3",
+        "icon": "plain"
+    },
+    {
+        "name": "cucumber",
+        "icon": "plain"
+    },
+    {
+        "name": "cypressio",
+        "icon": "plain"
+    },
+    {
+        "name": "d3js",
+        "icon": "plain"
+    },
+    {
+        "name": "dart",
+        "icon": "plain"
+    },
+    {
+        "name": "datagrip",
+        "icon": "plain"
+    },
+    {
+        "name": "dataspell",
+        "icon": "plain"
+    },
+    {
+        "name": "dbeaver",
+        "icon": "plain"
+    },
+    {
+        "name": "debian",
+        "icon": "plain"
+    },
+    {
+        "name": "denojs",
+        "icon": "plain"
+    },
+    {
+        "name": "digitalocean",
+        "icon": "plain"
+    },
+    {
+        "name": "discordjs",
+        "icon": "plain"
+    },
+    {
+        "name": "django",
+        "icon": "plain"
+    },
+    {
+        "name": "djangorest",
+        "icon": "plain"
+    },
+    {
+        "name": "docker",
+        "icon": "plain"
+    },
+    {
+        "name": "doctrine",
+        "icon": "plain"
+    },
+    {
+        "name": "dot-net",
+        "icon": "plain"
+    },
+    {
+        "name": "dotnetcore",
+        "icon": "plain"
+    },
+    {
+        "name": "dreamweaver",
+        "icon": "plain"
+    },
+    {
+        "name": "dropwizard",
+        "icon": "plain"
+    },
+    {
+        "name": "drupal",
+        "icon": "plain"
+    },
+    {
+        "name": "dynamodb",
+        "icon": "plain"
+    },
+    {
+        "name": "eclipse",
+        "icon": "plain"
+    },
+    {
+        "name": "ecto",
+        "icon": "plain"
+    },
+    {
+        "name": "elasticsearch",
+        "icon": "plain"
+    },
+    {
+        "name": "electron",
+        "icon": "original"
+    },
+    {
+        "name": "eleventy",
+        "icon": "plain"
+    },
+    {
+        "name": "elixir",
+        "icon": "plain"
+    },
+    {
+        "name": "elm",
+        "icon": "plain"
+    },
+    {
+        "name": "emacs",
+        "icon": "original"
+    },
+    {
+        "name": "embeddedc",
+        "icon": "plain"
+    },
+    {
+        "name": "ember",
+        "icon": "plain"
+    },
+    {
+        "name": "envoy",
+        "icon": "plain"
+    },
+    {
+        "name": "erlang",
+        "icon": "plain"
+    },
+    {
+        "name": "eslint",
+        "icon": "plain"
+    },
+    {
+        "name": "express",
+        "icon": "original"
+    },
+    {
+        "name": "facebook",
+        "icon": "plain"
+    },
+    {
+        "name": "fastapi",
+        "icon": "plain"
+    },
+    {
+        "name": "fastify",
+        "icon": "plain"
+    },
+    {
+        "name": "faunadb",
+        "icon": "plain"
+    },
+    {
+        "name": "feathersjs",
+        "icon": "original"
+    },
+    {
+        "name": "fedora",
+        "icon": "plain"
+    },
+    {
+        "name": "figma",
+        "icon": "plain"
+    },
+    {
+        "name": "filezilla",
+        "icon": "plain"
+    },
+    {
+        "name": "firebase",
+        "icon": "plain"
+    },
+    {
+        "name": "firefox",
+        "icon": "plain"
+    },
+    {
+        "name": "flask",
+        "icon": "plain"
+    },
+    {
+        "name": "flutter",
+        "icon": "plain"
+    },
+    {
+        "name": "fortran",
+        "icon": "original"
+    },
+    {
+        "name": "foundation",
+        "icon": "plain"
+    },
+    {
+        "name": "framermotion",
+        "icon": "plain"
+    },
+    {
+        "name": "framework7",
+        "icon": "plain"
+    },
+    {
+        "name": "fsharp",
+        "icon": "plain"
+    },
+    {
+        "name": "gatling",
+        "icon": "plain"
+    },
+    {
+        "name": "gatsby",
+        "icon": "plain"
+    },
+    {
+        "name": "gazebo",
+        "icon": "plain"
+    },
+    {
+        "name": "gcc",
+        "icon": "plain"
+    },
+    {
+        "name": "gentoo",
+        "icon": "plain"
+    },
+    {
+        "name": "ghost",
+        "icon": "original"
+    },
+    {
+        "name": "gimp",
+        "icon": "plain"
+    },
+    {
+        "name": "git",
+        "icon": "plain"
+    },
+    {
+        "name": "gitbook",
+        "icon": "plain"
+    },
+    {
+        "name": "github",
+        "icon": "plain"
+    },
+    {
+        "name": "githubactions",
+        "icon": "plain"
+    },
+    {
+        "name": "githubcodespaces",
+        "icon": "plain"
+    },
+    {
+        "name": "gitlab",
+        "icon": "plain"
+    },
+    {
+        "name": "gitpod",
+        "icon": "plain"
+    },
+    {
+        "name": "gitter",
+        "icon": "plain"
+    },
+    {
+        "name": "go",
+        "icon": "plain"
+    },
+    {
+        "name": "godot",
+        "icon": "plain"
+    },
+    {
+        "name": "goland",
+        "icon": "plain"
+    },
+    {
+        "name": "google",
+        "icon": "plain"
+    },
+    {
+        "name": "googlecloud",
+        "icon": "plain"
+    },
+    {
+        "name": "gradle",
+        "icon": "plain"
+    },
+    {
+        "name": "grafana",
+        "icon": "plain"
+    },
+    {
+        "name": "grails",
+        "icon": "plain"
+    },
+    {
+        "name": "graphql",
+        "icon": "plain"
+    },
+    {
+        "name": "groovy",
+        "icon": "plain"
+    },
+    {
+        "name": "grpc",
+        "icon": "plain"
+    },
+    {
+        "name": "grunt",
+        "icon": "plain"
+    },
+    {
+        "name": "gulp",
+        "icon": "plain"
+    },
+    {
+        "name": "hadoop",
+        "icon": "plain"
+    },
+    {
+        "name": "handlebars",
+        "icon": "plain"
+    },
+    {
+        "name": "hardhat",
+        "icon": "plain"
+    },
+    {
+        "name": "harvester",
+        "icon": "plain"
+    },
+    {
+        "name": "haskell",
+        "icon": "plain"
+    },
+    {
+        "name": "haxe",
+        "icon": "plain"
+    },
+    {
+        "name": "helm",
+        "icon": "plain"
+    },
+    {
+        "name": "heroku",
+        "icon": "plain"
+    },
+    {
+        "name": "hibernate",
+        "icon": "plain"
+    },
+    {
+        "name": "homebrew",
+        "icon": "plain"
+    },
+    {
+        "name": "html5",
+        "icon": "plain"
+    },
+    {
+        "name": "hugo",
+        "icon": "plain"
+    },
+    {
+        "name": "ie10",
+        "icon": "plain"
+    },
+    {
+        "name": "ifttt",
+        "icon": "plain"
+    },
+    {
+        "name": "illustrator",
+        "icon": "plain"
+    },
+    {
+        "name": "influxdb",
+        "icon": "plain"
+    },
+    {
+        "name": "inkscape",
+        "icon": "plain"
+    },
+    {
+        "name": "insomnia",
+        "icon": "plain"
+    },
+    {
+        "name": "intellij",
+        "icon": "plain"
+    },
+    {
+        "name": "ionic",
+        "icon": "original"
+    },
+    {
+        "name": "jaegertracing",
+        "icon": "plain"
+    },
+    {
+        "name": "jamstack",
+        "icon": "plain"
+    },
+    {
+        "name": "jasmine",
+        "icon": "plain"
+    },
+    {
+        "name": "java",
+        "icon": "plain"
+    },
+    {
+        "name": "javascript",
+        "icon": "plain"
+    },
+    {
+        "name": "jeet",
+        "icon": "plain"
+    },
+    {
+        "name": "jekyll",
+        "icon": "plain"
+    },
+    {
+        "name": "jenkins",
+        "icon": "plain"
+    },
+    {
+        "name": "jest",
+        "icon": "plain"
+    },
+    {
+        "name": "jetbrains",
+        "icon": "plain"
+    },
+    {
+        "name": "jetpackcompose",
+        "icon": "plain"
+    },
+    {
+        "name": "jira",
+        "icon": "plain"
+    },
+    {
+        "name": "jiraalign",
+        "icon": "plain"
+    },
+    {
+        "name": "jquery",
+        "icon": "plain"
+    },
+    {
+        "name": "json",
+        "icon": "plain"
+    },
+    {
+        "name": "jule",
+        "icon": "plain"
+    },
+    {
+        "name": "julia",
+        "icon": "plain"
+    },
+    {
+        "name": "junit",
+        "icon": "plain"
+    },
+    {
+        "name": "jupyter",
+        "icon": "plain"
+    },
+    {
+        "name": "k3os",
+        "icon": "plain"
+    },
+    {
+        "name": "k3s",
+        "icon": "plain"
+    },
+    {
+        "name": "k6",
+        "icon": "plain"
+    },
+    {
+        "name": "kaggle",
+        "icon": "plain"
+    },
+    {
+        "name": "karatelabs",
+        "icon": "plain"
+    },
+    {
+        "name": "karma",
+        "icon": "plain"
+    },
+    {
+        "name": "kdeneon",
+        "icon": "plain"
+    },
+    {
+        "name": "keras",
+        "icon": "plain"
+    },
+    {
+        "name": "kibana",
+        "icon": "plain"
+    },
+    {
+        "name": "knexjs",
+        "icon": "plain"
+    },
+    {
+        "name": "knockout",
+        "icon": "plain-wordmark"
+    },
+    {
+        "name": "kotlin",
+        "icon": "plain"
+    },
+    {
+        "name": "krakenjs",
+        "icon": "plain"
+    },
+    {
+        "name": "ktor",
+        "icon": "plain"
+    },
+    {
+        "name": "kubernetes",
+        "icon": "plain"
+    },
+    {
+        "name": "labview",
+        "icon": "plain"
+    },
+    {
+        "name": "laravel",
+        "icon": "plain"
+    },
+    {
+        "name": "latex",
+        "icon": "plain"
+    },
+    {
+        "name": "less",
+        "icon": "plain-wordmark"
+    },
+    {
+        "name": "linkedin",
+        "icon": "plain"
+    },
+    {
+        "name": "linux",
+        "icon": "plain"
+    },
+    {
+        "name": "liquibase",
+        "icon": "plain"
+    },
+    {
+        "name": "livewire",
+        "icon": "plain"
+    },
+    {
+        "name": "llvm",
+        "icon": "plain"
+    },
+    {
+        "name": "lodash",
+        "icon": "plain"
+    },
+    {
+        "name": "logstash",
+        "icon": "plain"
+    },
+    {
+        "name": "lua",
+        "icon": "plain"
+    },
+    {
+        "name": "lumen",
+        "icon": "plain"
+    },
+    {
+        "name": "magento",
+        "icon": "plain"
+    },
+    {
+        "name": "mariadb",
+        "icon": "plain"
+    },
+    {
+        "name": "markdown",
+        "icon": "plain"
+    },
+    {
+        "name": "materializecss",
+        "icon": "plain"
+    },
+    {
+        "name": "materialui",
+        "icon": "plain"
+    },
+    {
+        "name": "matlab",
+        "icon": "plain"
+    },
+    {
+        "name": "matplotlib",
+        "icon": "plain"
+    },
+    {
+        "name": "maven",
+        "icon": "plain"
+    },
+    {
+        "name": "maya",
+        "icon": "plain"
+    },
+    {
+        "name": "meteor",
+        "icon": "plain"
+    },
+    {
+        "name": "microsoftsqlserver",
+        "icon": "plain"
+    },
+    {
+        "name": "minitab",
+        "icon": "plain"
+    },
+    {
+        "name": "mithril",
+        "icon": "plain"
+    },
+    {
+        "name": "mobx",
+        "icon": "plain"
+    },
+    {
+        "name": "mocha",
+        "icon": "plain"
+    },
+    {
+        "name": "modx",
+        "icon": "plain"
+    },
+    {
+        "name": "moleculer",
+        "icon": "plain"
+    },
+    {
+        "name": "mongodb",
+        "icon": "plain"
+    },
+    {
+        "name": "mongoose",
+        "icon": "original"
+    },
+    {
+        "name": "moodle",
+        "icon": "plain"
+    },
+    {
+        "name": "msdos",
+        "icon": "plain"
+    },
+    {
+        "name": "mysql",
+        "icon": "plain"
+    },
+    {
+        "name": "nano",
+        "icon": "plain"
+    },
+    {
+        "name": "neo4j",
+        "icon": "plain"
+    },
+    {
+        "name": "neovim",
+        "icon": "plain"
+    },
+    {
+        "name": "nestjs",
+        "icon": "plain"
+    },
+    {
+        "name": "netlify",
+        "icon": "plain"
+    },
+    {
+        "name": "networkx",
+        "icon": "plain"
+    },
+    {
+        "name": "nextjs",
+        "icon": "plain"
+    },
+    {
+        "name": "nginx",
+        "icon": "plain"
+    },
+    {
+        "name": "ngrx",
+        "icon": "plain"
+    },
+    {
+        "name": "nhibernate",
+        "icon": "plain"
+    },
+    {
+        "name": "nim",
+        "icon": "plain"
+    },
+    {
+        "name": "nimble",
+        "icon": "plain"
+    },
+    {
+        "name": "nixos",
+        "icon": "plain"
+    },
+    {
+        "name": "nodejs",
+        "icon": "plain"
+    },
+    {
+        "name": "nodemon",
+        "icon": "plain"
+    },
+    {
+        "name": "nodewebkit",
+        "icon": "plain"
+    },
+    {
+        "name": "nomad",
+        "icon": "plain"
+    },
+    {
+        "name": "norg",
+        "icon": "plain"
+    },
+    {
+        "name": "notion",
+        "icon": "plain"
+    },
+    {
+        "name": "npm",
+        "icon": "original-wordmark"
+    },
+    {
+        "name": "nuget",
+        "icon": "original"
+    },
+    {
+        "name": "numpy",
+        "icon": "plain"
+    },
+    {
+        "name": "nuxtjs",
+        "icon": "plain"
+    },
+    {
+        "name": "oauth",
+        "icon": "plain"
+    },
+    {
+        "name": "objectivec",
+        "icon": "plain"
+    },
+    {
+        "name": "ocaml",
+        "icon": "plain"
+    },
+    {
+        "name": "ohmyzsh",
+        "icon": "plain"
+    },
+    {
+        "name": "okta",
+        "icon": "plain"
+    },
+    {
+        "name": "openal",
+        "icon": "plain"
+    },
+    {
+        "name": "openapi",
+        "icon": "plain"
+    },
+    {
+        "name": "opencl",
+        "icon": "plain"
+    },
+    {
+        "name": "opencv",
+        "icon": "plain"
+    },
+    {
+        "name": "opengl",
+        "icon": "plain"
+    },
+    {
+        "name": "openstack",
+        "icon": "plain"
+    },
+    {
+        "name": "opensuse",
+        "icon": "plain"
+    },
+    {
+        "name": "opentelemetry",
+        "icon": "plain"
+    },
+    {
+        "name": "opera",
+        "icon": "plain"
+    },
+    {
+        "name": "oracle",
+        "icon": "plain"
+    },
+    {
+        "name": "ory",
+        "icon": "plain"
+    },
+    {
+        "name": "p5js",
+        "icon": "plain"
+    },
+    {
+        "name": "packer",
+        "icon": "plain"
+    },
+    {
+        "name": "pandas",
+        "icon": "plain"
+    },
+    {
+        "name": "perl",
+        "icon": "plain"
+    },
+    {
+        "name": "pfsense",
+        "icon": "plain"
+    },
+    {
+        "name": "phalcon",
+        "icon": "plain"
+    },
+    {
+        "name": "phoenix",
+        "icon": "plain"
+    },
+    {
+        "name": "photonengine",
+        "icon": "plain"
+    },
+    {
+        "name": "photoshop",
+        "icon": "plain"
+    },
+    {
+        "name": "php",
+        "icon": "plain"
+    },
+    {
+        "name": "phpstorm",
+        "icon": "plain"
+    },
+    {
+        "name": "playwright",
+        "icon": "plain"
+    },
+    {
+        "name": "plotly",
+        "icon": "plain"
+    },
+    {
+        "name": "pnpm",
+        "icon": "plain"
+    },
+    {
+        "name": "podman",
+        "icon": "plain"
+    },
+    {
+        "name": "poetry",
+        "icon": "plain"
+    },
+    {
+        "name": "polygon",
+        "icon": "plain"
+    },
+    {
+        "name": "portainer",
+        "icon": "plain"
+    },
+    {
+        "name": "postcss",
+        "icon": "plain"
+    },
+    {
+        "name": "postgresql",
+        "icon": "plain"
+    },
+    {
+        "name": "postman",
+        "icon": "plain"
+    },
+    {
+        "name": "powershell",
+        "icon": "plain"
+    },
+    {
+        "name": "premierepro",
+        "icon": "plain"
+    },
+    {
+        "name": "prisma",
+        "icon": "plain"
+    },
+    {
+        "name": "processing",
+        "icon": "plain"
+    },
+    {
+        "name": "prolog",
+        "icon": "plain"
+    },
+    {
+        "name": "prometheus",
+        "icon": "plain"
+    },
+    {
+        "name": "protractor",
+        "icon": "plain"
+    },
+    {
+        "name": "pulsar",
+        "icon": "plain"
+    },
+    {
+        "name": "pulumi",
+        "icon": "plain"
+    },
+    {
+        "name": "puppeteer",
+        "icon": "plain"
+    },
+    {
+        "name": "purescript",
+        "icon": "original"
+    },
+    {
+        "name": "putty",
+        "icon": "plain"
+    },
+    {
+        "name": "pycharm",
+        "icon": "plain"
+    },
+    {
+        "name": "pypi",
+        "icon": "plain"
+    },
+    {
+        "name": "pyscript",
+        "icon": "plain-wordmark"
+    },
+    {
+        "name": "pytest",
+        "icon": "plain"
+    },
+    {
+        "name": "python",
+        "icon": "plain"
+    },
+    {
+        "name": "pytorch",
+        "icon": "plain"
+    },
+    {
+        "name": "qodana",
+        "icon": "plain"
+    },
+    {
+        "name": "qt",
+        "icon": "plain"
+    },
+    {
+        "name": "quarkus",
+        "icon": "plain"
+    },
+    {
+        "name": "quasar",
+        "icon": "plain"
+    },
+    {
+        "name": "qwik",
+        "icon": "plain"
+    },
+    {
+        "name": "r",
+        "icon": "plain"
+    },
+    {
+        "name": "rabbitmq",
+        "icon": "plain"
+    },
+    {
+        "name": "rails",
+        "icon": "plain"
+    },
+    {
+        "name": "railway",
+        "icon": "plain"
+    },
+    {
+        "name": "rancher",
+        "icon": "plain"
+    },
+    {
+        "name": "raspberrypi",
+        "icon": "plain"
+    },
+    {
+        "name": "reach",
+        "icon": "plain"
+    },
+    {
+        "name": "react",
+        "icon": "plain"
+    },
+    {
+        "name": "reactbootstrap",
+        "icon": "plain"
+    },
+    {
+        "name": "reactnavigation",
+        "icon": "plain"
+    },
+    {
+        "name": "readthedocs",
+        "icon": "plain"
+    },
+    {
+        "name": "realm",
+        "icon": "plain"
+    },
+    {
+        "name": "rect",
+        "icon": "plain"
+    },
+    {
+        "name": "redhat",
+        "icon": "plain"
+    },
+    {
+        "name": "redis",
+        "icon": "plain"
+    },
+    {
+        "name": "redux",
+        "icon": "plain"
+    },
+    {
+        "name": "renpy",
+        "icon": "plain"
+    },
+    {
+        "name": "replit",
+        "icon": "plain"
+    },
+    {
+        "name": "rider",
+        "icon": "plain"
+    },
+    {
+        "name": "rocksdb",
+        "icon": "plain"
+    },
+    {
+        "name": "rockylinux",
+        "icon": "plain"
+    },
+    {
+        "name": "rollup",
+        "icon": "plain"
+    },
+    {
+        "name": "ros",
+        "icon": "original"
+    },
+    {
+        "name": "rspec",
+        "icon": "plain"
+    },
+    {
+        "name": "rstudio",
+        "icon": "plain"
+    },
+    {
+        "name": "ruby",
+        "icon": "plain"
+    },
+    {
+        "name": "rubymine",
+        "icon": "plain"
+    },
+    {
+        "name": "rust",
+        "icon": "plain"
+    },
+    {
+        "name": "rxjs",
+        "icon": "plain"
+    },
+    {
+        "name": "safari",
+        "icon": "plain"
+    },
+    {
+        "name": "salesforce",
+        "icon": "plain"
+    },
+    {
+        "name": "sanity",
+        "icon": "plain"
+    },
+    {
+        "name": "sass",
+        "icon": "plain"
+    },
+    {
+        "name": "scala",
+        "icon": "plain"
+    },
+    {
+        "name": "scalingo",
+        "icon": "plain"
+    },
+    {
+        "name": "scikitlearn",
+        "icon": "plain"
+    },
+    {
+        "name": "sdl",
+        "icon": "plain"
+    },
+    {
+        "name": "selenium",
+        "icon": "plain"
+    },
+    {
+        "name": "sema",
+        "icon": "plain"
+    },
+    {
+        "name": "sentry",
+        "icon": "plain"
+    },
+    {
+        "name": "reactrouter",
+        "icon": "plain"
+    },
+    {
+        "name": "sequelize",
+        "icon": "plain"
+    },
+    {
+        "name": "shopware",
+        "icon": "original"
+    },
+    {
+        "name": "shotgrid",
+        "icon": "plain"
+    },
+    {
+        "name": "sketch",
+        "icon": "plain"
+    },
+    {
+        "name": "slack",
+        "icon": "plain"
+    },
+    {
+        "name": "socketio",
+        "icon": "plain"
+    },
+    {
+        "name": "solidity",
+        "icon": "plain"
+    },
+    {
+        "name": "solidjs",
+        "icon": "plain"
+    },
+    {
+        "name": "sonarqube",
+        "icon": "plain"
+    },
+    {
+        "name": "sourcetree",
+        "icon": "plain"
+    },
+    {
+        "name": "spack",
+        "icon": "plain"
+    },
+    {
+        "name": "splunk",
+        "icon": "original-wordmark"
+    },
+    {
+        "name": "spring",
+        "icon": "plain"
+    },
+    {
+        "name": "spss",
+        "icon": "plain"
+    },
+    {
+        "name": "spyder",
+        "icon": "plain"
+    },
+    {
+        "name": "sqlalchemy",
+        "icon": "plain"
+    },
+    {
+        "name": "sqldeveloper",
+        "icon": "plain"
+    },
+    {
+        "name": "sqlite",
+        "icon": "plain"
+    },
+    {
+        "name": "ssh",
+        "icon": "plain"
+    },
+    {
+        "name": "stackoverflow",
+        "icon": "plain"
+    },
+    {
+        "name": "stata",
+        "icon": "original-wordmark"
+    },
+    {
+        "name": "storybook",
+        "icon": "plain"
+    },
+    {
+        "name": "streamlit",
+        "icon": "plain"
+    },
+    {
+        "name": "stylus",
+        "icon": "original"
+    },
+    {
+        "name": "subversion",
+        "icon": "plain"
+    },
+    {
+        "name": "supabase",
+        "icon": "plain"
+    },
+    {
+        "name": "svelte",
+        "icon": "plain"
+    },
+    {
+        "name": "swagger",
+        "icon": "plain"
+    },
+    {
+        "name": "swift",
+        "icon": "plain"
+    },
+    {
+        "name": "swiper",
+        "icon": "plain"
+    },
+    {
+        "name": "symfony",
+        "icon": "plain"
+    },
+    {
+        "name": "tailwindcss",
+        "icon": "plain"
+    },
+    {
+        "name": "tauri",
+        "icon": "plain"
+    },
+    {
+        "name": "tensorflow",
+        "icon": "original"
+    },
+    {
+        "name": "terraform",
+        "icon": "plain"
+    },
+    {
+        "name": "tex",
+        "icon": "plain"
+    },
+    {
+        "name": "thealgorithms",
+        "icon": "plain"
+    },
+    {
+        "name": "threejs",
+        "icon": "original"
+    },
+    {
+        "name": "titaniumsdk",
+        "icon": "plain"
+    },
+    {
+        "name": "tomcat",
+        "icon": "line"
+    },
+    {
+        "name": "tortoisegit",
+        "icon": "plain"
+    },
+    {
+        "name": "towergit",
+        "icon": "plain"
+    },
+    {
+        "name": "traefikmesh",
+        "icon": "plain"
+    },
+    {
+        "name": "traefikproxy",
+        "icon": "plain"
+    },
+    {
+        "name": "travis",
+        "icon": "plain"
+    },
+    {
+        "name": "trello",
+        "icon": "plain"
+    },
+    {
+        "name": "trpc",
+        "icon": "plain"
+    },
+    {
+        "name": "twitter",
+        "icon": "plain"
+    },
+    {
+        "name": "typescript",
+        "icon": "plain"
+    },
+    {
+        "name": "typo3",
+        "icon": "plain"
+    },
+    {
+        "name": "ubuntu",
+        "icon": "plain"
+    },
+    {
+        "name": "unifiedmodelinglanguage",
+        "icon": "plain"
+    },
+    {
+        "name": "unity",
+        "icon": "plain"
+    },
+    {
+        "name": "unix",
+        "icon": "original"
+    },
+    {
+        "name": "unrealengine",
+        "icon": "plain"
+    },
+    {
+        "name": "uwsgi",
+        "icon": "plain"
+    },
+    {
+        "name": "v8",
+        "icon": "plain"
+    },
+    {
+        "name": "vagrant",
+        "icon": "plain"
+    },
+    {
+        "name": "vala",
+        "icon": "plain"
+    },
+    {
+        "name": "vault",
+        "icon": "plain"
+    },
+    {
+        "name": "vercel",
+        "icon": "plain"
+    },
+    {
+        "name": "vertx",
+        "icon": "plain"
+    },
+    {
+        "name": "vim",
+        "icon": "plain"
+    },
+    {
+        "name": "visualbasic",
+        "icon": "plain"
+    },
+    {
+        "name": "visualstudio",
+        "icon": "plain"
+    },
+    {
+        "name": "vite",
+        "icon": "plain"
+    },
+    {
+        "name": "vitejs",
+        "icon": "plain"
+    },
+    {
+        "name": "vitess",
+        "icon": "plain"
+    },
+    {
+        "name": "vitest",
+        "icon": "plain"
+    },
+    {
+        "name": "vscode",
+        "icon": "plain"
+    },
+    {
+        "name": "vsphere",
+        "icon": "plain"
+    },
+    {
+        "name": "vuejs",
+        "icon": "plain"
+    },
+    {
+        "name": "vuestorefront",
+        "icon": "plain"
+    },
+    {
+        "name": "vuetify",
+        "icon": "plain"
+    },
+    {
+        "name": "vyper",
+        "icon": "plain"
+    },
+    {
+        "name": "wasm",
+        "icon": "plain"
+    },
+    {
+        "name": "webflow",
+        "icon": "original"
+    },
+    {
+        "name": "weblate",
+        "icon": "plain"
+    },
+    {
+        "name": "webpack",
+        "icon": "plain"
+    },
+    {
+        "name": "webstorm",
+        "icon": "plain"
+    },
+    {
+        "name": "windows11",
+        "icon": "plain"
+    },
+    {
+        "name": "windows8",
+        "icon": "plain"
+    },
+    {
+        "name": "woocommerce",
+        "icon": "plain"
+    },
+    {
+        "name": "wordpress",
+        "icon": "plain"
+    },
+    {
+        "name": "xamarin",
+        "icon": "plain"
+    },
+    {
+        "name": "xcode",
+        "icon": "plain"
+    },
+    {
+        "name": "xd",
+        "icon": "plain"
+    },
+    {
+        "name": "xml",
+        "icon": "plain"
+    },
+    {
+        "name": "yaml",
+        "icon": "plain"
+    },
+    {
+        "name": "yarn",
+        "icon": "plain"
+    },
+    {
+        "name": "yii",
+        "icon": "plain"
+    },
+    {
+        "name": "yugabytedb",
+        "icon": "plain"
+    },
+    {
+        "name": "yunohost",
+        "icon": "plain"
+    },
+    {
+        "name": "zend",
+        "icon": "plain"
+    },
+    {
+        "name": "zig",
+        "icon": "plain"
+    }
+]

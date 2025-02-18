@@ -1,0 +1,1253 @@
+{
+  "HomePage": {
+    "headerPage": {
+      "title-dark": "Reasons to Choose ShLabs for ",
+      "title-light": "Your Digital Journey",
+      "title-text": "Partnering with ShLabs offers a multitude of advantages. Experience enhanced brand visibility, improved customer engagement, and optimized workflows. Our custom-tailored solutions are designed to meet your unique business needs, ensuring long-term success."
+    },
+    "containerBox": [
+      {
+        "image": "/icons/3star.png",
+        "name": "Expertise That Drives Results",
+        "text": "Our team of experienced professionals brings cutting-edge innovation and expertise to every project."
+      },
+      {
+        "image": "/icons/lamp.png",
+        "name": "Tailored Business Solutions",
+        "text": "We understand that every business is unique. That’s why our solutions are fully customized."
+      },
+      {
+        "image": "/icons/mouse.png",
+        "name": "Next-Gen Software Development",
+        "text": "Develop high-performance applications that redefine user experience and efficiency."
+      },
+      {
+        "image": "/icons/phone.png",
+        "name": "AI & Automation Solutions",
+        "text": "Leverage artificial intelligence and automation to streamline business operations."
+      },
+      {
+        "image": "/icons/fast.png",
+        "name": "Search Engine Optimization (SEO) Mastery",
+        "text": "Boost your online presence and reach the right audience with our expert SEO techniques."
+      }
+    ],
+    "serviceBox": {
+      "header": {
+        "dark": "Our",
+        "light": "Services",
+        "text": "We offer a comprehensive range of services, including:"
+      },
+      "circleBox": [
+        {
+          "name": "Web Development",
+          "text": "",
+          "image": "/icons/code.png"
+        },
+        {
+          "name": "Mobile App Development",
+          "text": "",
+          "image": "/icons/phone.png"
+        },
+        {
+          "name": "AI & Automation Solutions",
+          "text": "",
+          "image": "/icons/mouse.png"
+        },
+        {
+          "text": "",
+          "name": "Cloud Computing",
+          "image": "/icons/fast.png"
+        },
+        {
+          "text": "",
+          "name": "Cybersecurity",
+          "image": "/icons/fast.png"
+        },
+        {
+          "text": "",
+          "name": "Digital Marketing & SEO",
+          "image": "/icons/fast.png"
+        }
+      ]
+    },
+    "WorksBox": {
+      "header": {
+        "dark": "Our",
+        "light": "Works",
+        "text": "Explore some of our successful projects:"
+      },
+      "arrayBox": [
+        {
+          "image": "/shape/shape-1.png",
+          "name": "Innovative E-commerce Platform",
+          "text": "A dynamic and intuitive e-commerce platform with seamless global connectivity.",
+          "date": "",
+          "category": ""
+        },
+        {
+          "image": "/shape/shape-2.png",
+          "name": "AI-Powered Health Monitoring App",
+          "text": "A cutting-edge health tracking app that provides personalized insights and real-time analytics.",
+          "category": "Category: Mobile App Development.",
+          "date": "March 2022"
+        },
+        {
+          "image": "/shape/shape-3.png",
+          "name": "Corporate Website Revamp",
+          "text": "A sleek and modern corporate website designed for a leading enterprise.",
+          "category": "Category: Web Design.",
+          "date": "April 2022"
+        },
+        {
+          "image": "/shape/shape-4.png",
+          "name": "Data-Driven Digital Marketing Strategy",
+          "text": "A case study on how our tailored strategies boosted client engagement and conversion rates.",
+          "category": "Category: Digital Marketing.",
+          "date": "May 2022"
+        }
+      ]
+    },
+    "commentBox": {
+      "header": {
+        "dark": "",
+        "light": "Testimonials",
+        "text": "ShLabs transformed our vision into a high-performance software solution that exceeded our expectations."
+      },
+      "arrayBox": [
+        {
+          "name": "Mark Roberts",
+          "subject": "CEO, Tech Innovators Inc.",
+          "text": "Their AI-driven automation tools helped us scale operations efficiently and improve productivity.",
+          "image": "/profile/man.png"
+        }
+      ]
+    },
+    "accordionBox": {
+      "header": {
+        "dark": "Frequently ",
+        "light": "Asked Questions",
+        "text": "Have questions? Our FAQ section provides insights into our services, pricing, and more."
+      },
+      "arrayBox": [
+        {
+          "num": 1,
+          "name": "Our Partners and Clients",
+          "text": "We have collaborated with industry leaders and innovative startups worldwide. Our partnerships reflect our commitment to delivering excellence in technology."
+        },
+        {
+          "num": 2,
+          "name": "Ready to Transform Your Digital Presence?",
+          "text": "Take the first step towards digital success with ShLabs. Whether you need a cutting-edge website, a next-gen mobile app, or AI-driven solutions, our team is here to deliver. Let’s innovate together."
+        }
+      ]
+    }
+  },
+  "Menu": {
+    "home": {
+      "nameDark": "That Drive Success",
+      "nameLight": "Digital Solutions",
+      "text": "At ShLabs, we believe in the transformative power of digital solutions. Our team of experts is dedicated to helping businesses thrive in the fast-paced digital landscape. From cutting-edge software development to AI-driven automation, we craft solutions that elevate your business beyond expectations.",
+      "span": "Unlock Your Digital Potential Today",
+      "btnDark": "Free Consultation",
+      "btnLight": "Get Started"
+    },
+    "menuArray": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "Services",
+        "url": "/services"
+      },
+      {
+        "name": "Projects",
+        "url": "/projects"
+      },
+      {
+        "name": "Scripts Hub",
+        "url": "/scripts-hub"
+      },
+      {
+        "name": "About Us",
+        "url": "/about-us"
+      },
+      {
+        "name": "Contact Us",
+        "url": "/contact-us"
+      },
+      {
+        "name": "Careers",
+        "url": "/careers"
+      },
+      {
+        "name": "Blogs",
+        "url": "/blogs"
+      }
+    ]
+  },
+  "Footer": {
+    "container": {
+      "name": "Ready to Transform Your Digital Presence?",
+      "text": "Take the first step towards digital success with  by your side. Our team of experts is eager to craft tailored solutions that drive growth for your business. Whether you need a stunning website, a powerful mobile app, or a data-driven marketing campaign, we've got you covered. Let's embark on this transformative journey together.",
+      "span": "Unlock Your Digital Potential Today",
+      "btnDark": "Free Consultation",
+      "btnLight": "Get Started"
+    },
+    "menuBot": {
+      "val-1": "@2025 ShLabs. All Rights Reserved.",
+      "val-2": "Version 1.0",
+      "val-3": "Privacy Policy",
+      "val-4": "Terms & Conditions",
+      "val-5": "Cookie Policy"
+    }
+  },
+  "Services": {
+    "header": {
+      "nameLight": "Our Comprehensive",
+      "nameDark": "Digital Solutions",
+      "text": "At , we offer a comprehensive suite of digital solutions designed to propel your business to new heights in the digital realm. With a team of skilled professionals, cutting-edge technologies, and a passion for innovation, we are committed to delivering exceptional results for every project we undertake. From captivating web design that leaves a lasting impression to seamless web development that ensures optimal functionality, we cover every aspect of your online presence."
+    },
+    "section-1": {
+      "header": {
+        "nameLight": "",
+        "nameDark": "",
+        "text": "At , we are committed to providing exceptional digital solutions tailored to suit your unique business needs. Our comprehensive service offerings cover a wide spectrum of digital disciplines, including web design, app development, web development, and marketing."
+      },
+      "arrayBox": [
+        {
+          "name": "Web Development",
+          "text": "Unlock Your Online Potential In today's digital age, a powerful web presence is essential for any business. At , our web development services empower you to stand out in the crowded online landscape. We create responsive and dynamic websites tailored to your unique needs, ensuring seamless user experiences across all devices. From e-commerce platforms to interactive web applications, our expert developers bring your vision to life, making your online journey a resounding success.",
+          "image": "/icons/code.png",
+          "price": 1500
+        },
+        {
+          "name": "Mobile App Development",
+          "text": "Embrace Mobility with Confidence Mobile devices have revolutionized the way we interact with the world. Our mobile app development services enable you to harness this mobility to your advantage. We design and build intuitive and high-performance mobile applications that captivate your audience and boost engagement. Whether it's iOS, Android, or cross-platform development, we ensure that your app delivers a seamless experience, leaving a lasting impression on your users.",
+          "image": "/icons/phone.png",
+          "price": 1800
+        },
+        {
+          "name": "Web Design",
+          "text": "Elevate Your Brand Aesthetics Your website's design is a reflection of your brand's identity and values. 's web design services focus on creating visually striking and user-friendly interfaces that leave a lasting impact. Our creative team blends aesthetics with functionality, delivering a captivating user experience that keeps visitors coming back for more. Let us transform your online presence into an immersive journey that showcases your brand's true essence.",
+          "image": "/icons/mouse.png",
+          "price": 2500
+        },
+        {
+          "name": "Digital Marketing",
+          "text": "Drive Your Business Forward In the vast digital landscape, standing out from the competition is crucial. Our digital marketing services help you rise above the noise and connect with your target audience effectively. From search engine optimization (SEO) to social media marketing and pay-per-click (PPC) campaigns, our data-driven strategies ensure that your message reaches the right people at the right time.",
+          "image": "/icons/fast.png",
+          "price": 2150
+        }
+      ]
+    },
+    "section-2": {
+      "header": {
+        "nameLight": "Services",
+        "nameDark": "Categories of",
+        "text": "At , we are committed to providing exceptional digital solutions tailored to suit your unique business needs. Our comprehensive service offerings cover a wide spectrum of digital disciplines, including web design, app development, web development, and marketing."
+      },
+      "name": "Web Design",
+      "text": "Web Design is the art and science of creating visually appealing and user-friendly websites that reflect your brand identity and resonate with your target audience. At , our web design process involves a careful blend of creativity, user experience (UX) design, and cutting-edge technologies. We take the time to understand your business goals, target market, and unique selling points to create a website that not only looks great but also drives results.",
+      "arrayCategory": [
+        {
+          "name": "Web Design",
+          "img": "/icons/mouse.png"
+        },
+        {
+          "name": "Web Development",
+          "img": "/icons/code.png"
+        },
+        {
+          "name": "Mobile App Development",
+          "img": "/icons/phone.png"
+        },
+        {
+          "name": "Digital Marketing",
+          "img": "/icons/sun.png"
+        }
+      ],
+      "box-1": [
+        {
+          "name": "Key Features",
+          "text": "",
+          "boxs": [
+            {
+              "name": "Customized Design",
+              "text": "We craft bespoke designs tailored to match your brand personality and industry."
+            },
+            {
+              "name": "Responsive Design",
+              "text": "Ensuring your website adapts seamlessly to different devices and screen sizes."
+            },
+            {
+              "name": "User-Centric Approach",
+              "text": "Prioritizing ease of navigation and intuitive user experience."
+            },
+            {
+              "name": "Visual Elements",
+              "text": "Incorporating engaging visuals, graphics, and animations to enhance the overall appeal."
+            }
+          ]
+        },
+        {
+          "name": "Key Features",
+          "text": "Our Web Design process follows a systematic approach to deliver a website that aligns perfectly with your business needs and branding. Here's an overview of our design process",
+          "boxs": [
+            {
+              "name": "Customized Design",
+              "text": "We craft bespoke designs tailored to match your brand personality and industry."
+            },
+            {
+              "name": "Responsive Design",
+              "text": "Ensuring your website adapts seamlessly to different devices and screen sizes."
+            },
+            {
+              "name": "User-Centric Approach",
+              "text": "Prioritizing ease of navigation and intuitive user experience."
+            },
+            {
+              "name": "Visual Elements",
+              "text": "Incorporating engaging visuals, graphics, and animations to enhance the overall appeal."
+            }
+          ]
+        }
+      ],
+      "box-2": {
+        "name": "Web Design Portfolio",
+        "text": "Check out some of our most recent Web Design projects in the table below"
+      },
+      "box-3": {
+        "name": "Our Web Design Competed Projects",
+        "text": "At , we are dedicated to creating transformative mobile apps that empower your business and enrich your users' experiences.",
+        "array": [
+          {
+            "name": "GlobalTech Solutions",
+            "subject": "E-commerce",
+            "url": "www.globaltechsolutions.com"
+          },
+          {
+            "name": "GreenEarth Eco Store",
+            "subject": "Design Agency",
+            "url": "www.greenearthecostore.com"
+          },
+          {
+            "name": "TechGuru Inc.",
+            "subject": "Technology",
+            "url": "www.techguruinc.com"
+          }
+        ]
+      }
+    },
+    "section-3": {
+      "header": {
+        "nameLight": "Success",
+        "nameDark": "Stories",
+        "text": "At , our success is defined by the achievements of our valued clients. We take immense pride in the transformative impact our digital solutions have had on their businesses. Here are some inspiring success stories that highlight the outcomes of our collaborative efforts"
+      },
+      "array": [
+        {
+          "name": "ABC Tech Solutions",
+          "image": "/icons/icon-light.png",
+          "chart": "E-commerce",
+          "bags": "Web Design & Development",
+          "challenge": "ABC Enterprises approached us with a desire to revamp their outdated website and create a more user-friendly and visually appealing platform. They sought to improve user engagement and increase online sales.",
+          "solution": "Our team conducted a thorough analysis of their target audience and business objectives. We designed a modern and intuitive website with seamless navigation and a mobile-responsive layout. Additionally, we integrated an efficient checkout process and optimized the site for search engines."
+        },
+        {
+          "name": "Fitness Tracker App",
+          "image": "/icons/icon-light2.png",
+          "chart": "Health & Fitness",
+          "bags": "Mobile App Development",
+          "challenge": "Our client aimed to create an all-in-one fitness tracking app to cater to health enthusiasts and fitness professionals. They wanted a seamless user interface, real-time data tracking, and social sharing features.",
+          "solution": "Leveraging our expertise in app development, we built an interactive mobile app with user-friendly features. The app allowed users to set personalized fitness goals fitness goals, track their progress, and share achievements on social media platforms."
+        }
+      ]
+    }
+  },
+  "Projects": {
+    "header": {
+      "nameLight": "Digital Vision",
+      "nameDark": "Empowering Your",
+      "text": "At , we are committed to empowering your digital vision with innovative solutions tailored to your unique needs. Our team of skilled professionals, coupled with cutting-edge technologies, ensures that we deliver exceptional results that elevate your online presence. Whether its captivating web designs, seamless app development, effective digital marketing, or other digital solutions, we are dedicated to bringing your ideas to life and helping your business thrive in the dynamic digital landscape. Partner with us today, and lets unlock endless possibilities for your digital success! "
+    },
+    "section-1": {
+      "header": {
+        "nameLight": "Key Features",
+        "nameDark": "of Our Projects",
+        "text": "Partnering with  offers a multitude of advantages. Experience increased brand visibility, improved customer engagement, and higher ROI. Our tailored solutions are designed to meet your unique business needs, ensuring lasting success."
+      },
+      "array": []
+    },
+    "section-2": {
+      "header": {
+        "nameLight": "Showcase ",
+        "nameDark": "Projects",
+        "text": "Witness the brilliance of our previous projects. Our portfolio showcases the successful collaborations weve had with diverse clients across various industries. Let our work speak for itself."
+      },
+      "array": [
+        {
+          "image": "/service1.png",
+          "name": "E-Commerce Revolution",
+          "arrayTitle": [
+            "E-commerce",
+            "Web Design & Development",
+            "Web Design & Development"
+          ],
+          "title": "Project Description",
+          "desc": "A dynamic e-commerce platform that revolutionized online shopping for fashion enthusiasts. The website showcases the latest trends, offers personalized recommendations, and seamless checkout options.",
+          "category": "E-commerce",
+          "taskTime": "4 Months",
+          "startDate": "January 15, 2023",
+          "completeDate": "May 15, 2023"
+        },
+        {
+          "image": "/service2.png",
+          "name": "E-Commerce Revolution",
+          "arrayTitle": [
+            "E-commerce",
+            "Web Design & Development",
+            "Web Design & Development"
+          ],
+          "title": "Project Description",
+          "desc": "A dynamic e-commerce platform that revolutionized online shopping for fashion enthusiasts. The website showcases the latest trends, offers personalized recommendations, and seamless checkout options.",
+          "category": "E-commerce",
+          "taskTime": "4 Months",
+          "startDate": "January 15, 2023",
+          "completeDate": "May 15, 2023"
+        }
+      ]
+    },
+    "section-3": {
+      "header": {
+        "nameLight": "Upcoming",
+        "nameDark": "Projects",
+        "text": "At , we are continually working on exciting new projects to push the boundaries of digital innovation and deliver exceptional solutions to our valued clients. While we are thrilled to share our upcoming projects with you, we understand the importance of confidentiality and safeguarding sensitive information. Therefore, we will provide a brief overview of the upcoming projects while keeping specific details concealed."
+      },
+      "array": [
+        {
+          "name": "Healthcare Platform Enhancement",
+          "image": "/icons/icon-light.png",
+          "cat": "Web Development",
+          "date": "Q4 2023",
+          "text": "Our team is collaborating with a leading healthcare provider to enhance their existing platform. The project aims to streamline user experiences, optimize database performance, and implement advanced security measures to safeguard patient data. This ambitious undertaking will elevate the platform's capabilities and revolutionize healthcare accessibility for users."
+        },
+        {
+          "name": "AI-Driven Marketing Automation",
+          "image": "/icons/icon-light2.png",
+          "cat": "Digital Marketing",
+          "date": "Q1 2024",
+          "text": "We are partnering with a dynamic marketing agency to develop an AI-driven marketing automation platform. This cutting-edge solution will empower businesses to optimize their marketing efforts through data-driven insights, personalized customer interactions, and automated campaign management. The project promises to revolutionize the digital marketing landscape and drive exceptional results for businesses of all sizes."
+        },
+        {
+          "name": "Educational Learning App",
+          "image": "/icons/icon-light.png",
+          "cat": "E-commerce",
+          "date": "Q4 2024",
+          "text": "We are collaborating with an eco-conscious startup to create an innovative e-commerce platform that promotes sustainable products and environmentally friendly practices. The platform will empower consumers to make eco-conscious choices while supporting sustainable businesses. This project aligns with our commitment to creating digital solutions that contribute to a greener future."
+        },
+        {
+          "name": "Community Engagement Portal",
+          "image": "/icons/icon-light2.png",
+          "cat": "Web Development",
+          "date": "Q4 2024",
+          "text": "Our team is excited to be part of a community-driven initiative to develop an engagement portal that connects residents with local services, events, and resources. The portal aims to foster community interactions, promote inclusivity, and enhance the quality of life for residents. This project represents our dedication to using technology for positive social impact."
+        }
+      ]
+    }
+  },
+  "About-us": {
+    "header": {
+      "nameLight": "Elevating Brands",
+      "nameDark": " in the Digital Age",
+      "text": "Welcome to , your trusted partner in the dynamic world of digital solutions. We are a passionate team of creative minds, tech enthusiasts, and digital strategists, dedicated to empowering businesses and individuals in the digital realm. Our mission is to deliver exceptional results that drive success, create meaningful connections, and bring your digital vision to life. With a customer-centric approach and a focus on innovation, we are committed to being at the forefront of the ever-evolving digital landscape."
+    },
+    "section-1": {
+      "header": {
+        "nameLight": "Team Members",
+        "nameDark": "Our ",
+        "text": "Partnering with  offers a multitude of advantages. Experience increased brand visibility, improved customer engagement, and higher ROI. Our tailored solutions are designed to meet your unique business needs, ensuring lasting success."
+      },
+      "array": [
+        {
+          "name": "Co-Founder & CEO",
+          "image": "/profile/man2.png",
+          "skill": "Co-Founder & CEO"
+        },
+        {
+          "name": "Head of Design",
+          "image": "/profile/woman.png",
+          "skill": "Head of Design"
+        },
+        {
+          "name": "Michael Williams",
+          "image": "/profile/man2.png",
+          "skill": "Project Manager"
+        },
+        {
+          "name": "Emily Johnson",
+          "image": "/profile/man.png",
+          "skill": "Lead Web Developer"
+        },
+        {
+          "name": "Jessica Lee",
+          "image": "/profile/woman2.png",
+          "skill": "UX/UI Designer"
+        },
+        {
+          "name": "Robert Johnson",
+          "image": "/profile/man.png",
+          "skill": "Lead Mobile App Developer"
+        },
+        {
+          "name": "Emma Taylor",
+          "image": "/profile/woman.png",
+          "skill": "Digital Marketer"
+        },
+        {
+          "name": "Olivia Martin",
+          "image": "/profile/woman2.png",
+          "skill": "Content Specialist"
+        }
+      ]
+    },
+    "section-2": {
+      "header": {
+        "nameLight": "Achievements",
+        "nameDark": "Our",
+        "text": "Witness the brilliance of our previous projects. Our portfolio showcases the successful collaborations weve had with diverse clients across various industries. Let our work speak for itself."
+      },
+      "array": [
+        {
+          "num": "01",
+          "date": "October 2017",
+          "name": "Foundation of ",
+          "text": "Recognition for outstanding contributions to the digital industry, celebrating our ability to deliver exceptional web design and development solutions that push the boundaries of creativity and functionality."
+        },
+        {
+          "num": "02",
+          "date": "June 2018",
+          "name": "100 Successful Projects",
+          "text": "We celebrated a significant milestone of completing 100 successful projects, marking our commitment to delivering excellence in every endeavor. Our diverse portfolio showcased our ability to cater to various industries and client requirements."
+        },
+        {
+          "num": "03",
+          "date": "August 2019",
+          "name": "Expansion to International Markets",
+          "text": "We expanded our services to international clients, opening new avenues for growth and global collaboration. Our expansion into international markets solidified our position as a leading digital agency with a global footprint."
+        },
+        {
+          "num": "04",
+          "date": "March 2021",
+          "name": " Innovation Lab Inauguration",
+          "text": "To foster creativity and innovation, we inaugurated the  Innovation Lab. This state-of-the-art facility served as a hub for our team to ideate, experiment, and explore emerging technologies."
+        },
+        {
+          "num": "05",
+          "date": "September 2023",
+          "name": "500 Satisfied Clients",
+          "text": "We celebrated reaching a milestone of serving 500 satisfied clients, further strengthening our reputation for customer-centric services and successful project outcomes."
+        }
+      ]
+    },
+    "section-3": {
+      "header": {
+        "nameLight": "Awards & Recognitions",
+        "nameDark": "Our ",
+        "text": "Witness the brilliance of our previous projects. Our portfolio showcases the successful collaborations weve had with diverse clients across various industries. Let our work speak for itself."
+      },
+      "array": [
+        {
+          "name": "Digital Excellence Award",
+          "image": "/icons/win.png",
+          "date": "October 2017",
+          "text": "Recognition for outstanding contributions to the digital industry, celebrating our ability to deliver exceptional web design and development solutions that push the boundaries of creativity and functionality.",
+          "why": "Innovative web design and development solutions."
+        },
+        {
+          "name": "Top Mobile App Development Agency",
+          "image": "/icons/win.png",
+          "date": "March 2019",
+          "text": "Recognized as a top mobile app development agency by industry experts, highlighting our proficiency in delivering seamless and user-centric mobile applications.",
+          "why": "Unparalleled app development services and designs."
+        },
+        {
+          "name": "Best Digital Marketing Campaign",
+          "image": "/icons/win.png",
+          "date": "July 2022",
+          "text": "Awarded for an exceptional digital marketing campaign with outstanding results, showcasing our data-driven strategies and targeted marketing efforts that achieved remarkable business growth for our clients.",
+          "why": "Data-driven strategies and targeted marketing efforts."
+        },
+        {
+          "name": "Innovative Tech Startup Award",
+          "image": "/icons/win.png",
+          "date": "January 2026",
+          "text": "Recognition of our pioneering efforts as a technology startup, acknowledging our commitment to exploring and implementing cutting-edge technologies to drive innovation in the digital space.",
+          "why": "Pioneering in the use of emerging technologies."
+        }
+      ]
+    },
+    "section-4": [
+      {
+        "name": "Careers At ",
+        "text": "At , we believe in fostering a dynamic and collaborative work environment that empowers our team members to excel in their respective fields. Join us to be part of a passionate and innovative team dedicated to crafting exceptional digital solutions for clients across the globe. We are committed to nurturing talent, encouraging professional growth, and creating a workplace where creativity thrives.",
+        "image": "/icons/bags.png"
+      },
+      {
+        "name": "Contact Us",
+        "text": "At , we value your inquiries, feedback, and collaborations. Whether you are interested in our digital services, have questions about our projects, or want to explore potential partnerships, we encourage you to reach out to our dedicated team. Connect with us through any of the channels below, and we'll be delighted to assist you on your digital journey.",
+        "image": "/icons/phone.png"
+      }
+    ]
+  },
+  "Contact-us": {
+    "header": {
+      "nameLight": "Touch with Us Today",
+      "nameDark": "Get in",
+      "text": "At , we value your inquiries, feedback, and collaborations. Whether you are interested in our digital services, have questions about our projects, or want to explore potential partnerships, we encourage you to reach out to our dedicated team. Connect with us through any of the channels below, and we'll be delighted to assist you on your digital journey.",
+      "hover": "Feel free to contact us through any of the following channels"
+    },
+    "section-1": {
+      "header": {
+        "name": "Office Locations",
+        "text": "Visit our offices to have a face-to-face discussion with our team. We have locations in"
+      },
+      "array": [
+        {
+          "name": "New York City",
+          "text": "123 Main Street, Suite 456, New York, NY 10001",
+          "image": "/icons/fast.png"
+        },
+        {
+          "name": "New York City",
+          "text": "123 Main Street, Suite 456, New York, NY 10001",
+          "image": "/icons/app.png"
+        }
+      ]
+    },
+    "section-2": {
+      "header": {
+        "name": "Online Inquiry Form",
+        "text": "Please fill in the following details, and we'll get back to you within 24 hours."
+      },
+      "array": [
+        {
+          "name": "Contact Us Via Email",
+          "boxs": [
+            {
+              "name": "info@.com",
+              "image": "gmail",
+              "title": "For General Inquiries"
+            },
+            {
+              "name": "partnerships@.com",
+              "image": "gmail",
+              "title": "For Business Collaborations"
+            },
+            {
+              "name": "careers@.com",
+              "image": "gmail",
+              "title": "For Job Opportunities"
+            }
+          ]
+        },
+        {
+          "name": "Contact Us By Phone",
+          "boxs": [
+            {
+              "name": "+1-XXX-XXX-XXXX",
+              "image": "phone",
+              "title": "General Enquiries"
+            },
+            {
+              "name": "+1-XXX-XXX-XXXX",
+              "image": "phone",
+              "title": "Business Collaborations"
+            },
+            {
+              "name": "+1-XXX-XXX-XXXX",
+              "image": "phone",
+              "title": "Free Consultation"
+            }
+          ]
+        }
+      ]
+    },
+    "section-3": [
+      {
+        "name": "Our Response",
+        "text": "We understand the importance of timely responses, and our team is committed to addressing your inquiries promptly. Whether you have a specific project in mind, need advice on digital strategies, or want to explore partnership opportunities, we are here to assist you at every step.",
+        "image": "/icons/clock.png"
+      },
+      {
+        "name": "Privacy Assurance",
+        "text": "At , we prioritize your privacy and protect your personal information in compliance with data protection regulations. Rest assured that your details will only be used for the purpose of addressing your inquiries and will not be shared with third parties without your consent",
+        "image": "/icons/fast.png"
+      }
+    ],
+    "section-4": {
+      "header": {
+        "name": "Join Us on Social Media",
+        "text": "Stay updated with our latest projects, industry insights, and company news by following us on social media"
+      },
+      "name": "Thank You!",
+      "text": "For considering  for your digital needs. We look forward to connecting with you and being part of your digital success!"
+    }
+  },
+  "Carrees": {
+    "header": {
+      "nameLight": "Unlock Your Potential",
+      "nameDark": "in the Digital World",
+      "text": "At , we believe in fostering a dynamic and collaborative work environment that empowers our team members to excel in their respective fields. Join us to be part of a passionate and innovative team dedicated to crafting exceptional digital solutions for clients across the globe. We are committed to nurturing talent, encouraging professional growth, and creating a workplace where creativity thrives."
+    },
+    "section-1": {
+      "header": {
+        "nameLight": "Job Listings",
+        "nameDark": "at ",
+        "text": "Explore our current job listings to discover exciting career opportunities that match your skill set and interests. We offer positions in various digital disciplines, including web design, mobile app development, digital marketing, project management, and more. Each job listing provides comprehensive details about the role, responsibilities, qualifications, and benefits. Whether you are an experienced professional or a fresh graduate, we welcome talent from all backgrounds to join our team."
+      },
+      "array": [
+        {
+          "address": "Mumbai, India",
+          "bags": "Experience - Minimum 1 year of professional web design experience.",
+          "image": "/icons/mouse.png",
+          "skill": "Skills - Proficiency in Adobe Creative Suite (Photoshop, Illustrator, etc.), strong understanding of UI/UX design principles, responsive design expertise.",
+          "price": "Salary - $45,000 - $60,000 per year (based on experience)",
+          "title": "Web Designer"
+        },
+        {
+          "address": "Mumbai, India",
+          "bags": "Experience - Minimum 2 years of mobile app development experience.",
+          "image": "/icons/phone.png",
+          "price": "Salary - $55,000 - $75,000 per year (based on experience)",
+          "skill": "Skills - Proficiency in iOS or Android development (Swift, Kotlin), knowledge of mobile app design patterns, experience with mobile testing and debugging.",
+          "title": "Mobile App Developer"
+        },
+        {
+          "address": "Mumbai, India",
+          "bags": "Experience - Minimum 3 years of digital marketing experience.",
+          "image": "/icons/fast.png",
+          "price": "Salary - $50,000 - $65,000 per year (based on expertise)",
+          "skill": "Skills - Proficiency in SEO, SEM, and social media marketing, experience with analytics tools (Google Analytics, etc.), content marketing expertise.",
+          "title": "Digital Marketing Specialist"
+        },
+        {
+          "address": "Mumbai, India",
+          "bags": "Experience - Minimum 3 years of digital marketing experience.",
+          "image": "/icons/sun.png",
+          "skill": "Skills - Proficiency in SEO, SEM, and social media marketing, experience with analytics tools (Google Analytics, etc.), content marketing expertise.",
+          "price": "Salary - $60,000 - $80,000 per year (based on experience and qualifications).",
+          "title": "Project Manager"
+        }
+      ]
+    },
+    "section-2": {
+      "header": {
+        "nameLight": "Apply",
+        "nameDark": "How to",
+        "text": "We are excited that you are interested in joining our team at ! To apply for any of our job listings, please follow the simple steps below"
+      },
+      "array": [
+        {
+          "name": "Explore Job Listings",
+          "number": "01",
+          "text": "Visit our website's Careers page to explore the current job listings. Review the various roles available and select the position that aligns with your skills, experience, and career aspirations."
+        },
+        {
+          "name": "Review Job Description",
+          "number": "02",
+          "text": "Click on the desired job title to view the detailed job description. Take your time to read through the responsibilities, requirements, and qualifications to ensure you have a clear understanding of the role."
+        },
+        {
+          "name": "Complete the Application Form",
+          "number": "03",
+          "text": "Click the Apply Now button on the job listing page to access our online application form. Fill in your personal information, contact details, and the position you are applying for."
+        },
+        {
+          "name": "Upload Your Documents",
+          "number": "04",
+          "text": "Attach your resume, cover letter, and portfolio (if applicable) in their respective fields on the application form."
+        },
+        {
+          "name": "Submit Your Application",
+          "number": "05",
+          "text": "Double-check all the information you provided to ensure accuracy and completeness. Once you are satisfied with your application, click the Submit button to send it to our HR team."
+        },
+        {
+          "name": "Interview Process",
+          "number": "06",
+          "text": "If you are selected for an interview, we will reach out to schedule a suitable date and time. Interviews may be conducted in-person or virtually, depending on the position and your location."
+        }
+      ]
+    },
+    "section-3": {
+      "header": {
+        "nameLight": "Perks",
+        "nameDark": "Benefits &",
+        "text": "At , we believe in prioritizing the well-being and growth of our team members. We offer a comprehensive range of benefits and perks to ensure our employees feel valued, motivated, and supported in both their personal and professional lives. As a member of the  family, you can enjoy the following benefits"
+      },
+      "array": [
+        {
+          "image": "/icons/bags.png",
+          "name": "Competitive Compensation",
+          "arry": [
+            "We offer competitive salary packages to reward your skills, experience, and dedication to the company."
+          ]
+        },
+        {
+          "image": "/icons/app.png",
+          "name": "Health and Wellness",
+          "arry": [
+            "Health Insurance: Comprehensive health insurance plans to cover medical, dental, and vision needs.",
+            "Wellness Programs: Initiatives to promote physical and mental well-being, such as fitness classes and workshops.",
+            "Mental Health Support: Employee Assistance Program (EAP) providing counseling and support services."
+          ]
+        },
+        {
+          "image": "/icons/code.png",
+          "name": "Paid Time Off",
+          "arry": [
+            "Vacation Leave: Generous vacation days to relax and recharge.",
+            "Sick Leave: Paid sick days for when you need to take care of your health.",
+            "Holidays: Enjoy paid time off on recognized public holidays."
+          ]
+        },
+        {
+          "image": "/icons/chart.png",
+          "name": "Professional Development",
+          "arry": [
+            "Training Opportunities: Access to workshops, courses, and resources to enhance your skills and knowledge.",
+            "Career Growth: Opportunities for career advancement and skill development."
+          ]
+        },
+        {
+          "image": "/icons/fast.png",
+          "name": "Flexible Work Arrangements",
+          "arry": [
+            "Remote Work: We support flexible work arrangements, including remote work options for certain roles.",
+            "Flexible Hours: Adjust your work schedule to accommodate personal commitments."
+          ]
+        },
+        {
+          "image": "/icons/lamp.png",
+          "name": "Employee Referral Program",
+          "arry": [
+            "Incentives for referring qualified candidates to open positions at ."
+          ]
+        },
+        {
+          "image": "/icons/html.png",
+          "name": "Team-Building Activities",
+          "arry": [
+            "Regular team-building events and activities to foster camaraderie and collaboration among team members."
+          ]
+        },
+        {
+          "image": "/icons/sun.png",
+          "name": "Modern Workspace",
+          "arry": [
+            "State-of-the-art office facilities and a comfortable working environment."
+          ]
+        },
+        {
+          "image": "/icons/win.png",
+          "name": "Company Events and Celebrations",
+          "arry": [
+            "Celebrate company milestones, birthdays, and other special occasions together."
+          ]
+        }
+      ]
+    },
+    "section-4": {
+      "name": "We value your interest in ",
+      "text": "We value your interest in  and appreciate the time and effort you put into your application. Our team looks forward to reviewing your application and finding the best talent to join our vibrant and innovative team. Apply now and take the next step towards an exciting and fulfilling career with !",
+      "header": {
+        "nameLight": "Referral Program",
+        "nameDark": "Employee ",
+        "text": "At , we believe that our employees are our most valuable asset. We recognize the importance of building a strong and talented team, and we encourage our employees to play an active role in shaping our workforce. Introducing our Employee Referral Program – an opportunity for you to help us find exceptional talent and be rewarded for your contributions."
+      },
+      "array": [
+        {
+          "name": "Rewards and Recognition",
+          "boxs": [
+            "You will be publicly recognized and appreciated for your contribution to the Employee Referral Program during company-wide announcements and events.",
+            "The value of the reward may vary depending on the level and significance of the role being filled.",
+            "For each successful referral, you will be rewarded with a generous cash bonus or an equivalent value in gift cards."
+          ]
+        },
+        {
+          "name": "Program Guidelines",
+          "boxs": [
+            "The Employee Referral Program is open to all current  employees.",
+            "Referred candidates must not have previously applied for a position at  within the last six months.",
+            "The referred candidate must not be an existing or former employee of .",
+            "To be eligible for the reward, the referred candidate must successfully complete the probationary period.",
+            "In the event that multiple employees refer the same candidate, the referral reward will be given to the first referrer mentioned by the candidate during the application process."
+          ]
+        }
+      ]
+    }
+  },
+  "Blog": {
+    "header": {
+      "nameLight": "Digital Journey",
+      "nameDark": "Empowering Your",
+      "text": "At , we are passionate about sharing our expertise, insights, and latest trends in the digital world. Our blog serves as a knowledge hub, offering valuable information and resources for individuals, businesses, and fellow industry enthusiasts. Whether you are a seasoned professional or a curious learner, our blog covers a wide range of topics related to web design, development, digital marketing, technology, and much more. Join us as we embark on a journey to explore the digital landscape and unlock the potential of the online world."
+    },
+    "section-1": {
+      "name": "Web Design Trends Shaping 2023",
+      "text": "Stay ahead of the design curve with insights into the latest web design trends. From immersive user experiences to bold color choices, explore the design elements that will dominate the digital landscape in 2023 and beyond",
+      "time": "6 minutes",
+      "author": "Laura Turner",
+      "published": "15 / 01 / 2023",
+      "category": "Design",
+      "array": [
+        {
+          "title": "The Art of User-Centric Design",
+          "image": "/profile-auth.jpg",
+          "banner": "/work1.png",
+          "name": "Daniel Lee",
+          "text": "User-centric design is the key to creating intuitive and engaging digital experiences...."
+        },
+        {
+          "title": "Optimizing Mobile User Experience for Higher Conversions",
+          "image": "/profile/woman.png",
+          "name": "Amanda Turner",
+          "banner": "/work2.png",
+          "text": "Mobile devices dominate digital interactions, making mobile user experience crucial for conversion rates...."
+        },
+        {
+          "title": "The Psychology of Visual Design in Branding",
+          "name": "Benjamin Carter",
+          "image": "/profile/man.png",
+          "banner": "/work3.png",
+          "text": "Uncover the impact of visual elements in branding and how they influence customer perceptions and emotions...."
+        },
+        {
+          "title": "Mastering the Art of Minimalistic Design",
+          "name": "Sophia Roberts",
+          "image": "/profile/man2.png",
+          "banner": "/work4.png",
+          "text": "Simplicity and elegance take center stage in minimalistic design. Learn the principles of minimalism,..."
+        }
+      ]
+    }
+  },
+  "Scripts": {
+    "header": {
+      "nameLight": "a special human",
+      "nameDark": "Hi Im Naufaldi,",
+      "text": "with some ability to love learning and working on teamwork."
+    },
+    "prof": {
+      "name": "Biography",
+      "text": "Getting Buff +1 for learning, Buff +2 for documentation and more buff on managing team. Exicited on React, UX Research and Agile."
+    },
+    "section-1": {
+      "name": "What I do",
+      "text": "Build and maintain websites, frontend dev also have a mentorship called MOFON. My motto is Beauty and function in equal measure as priority.",
+      "array": [
+        {
+          "name": "Web Development",
+          "text": "You will receive a customized plan for your fitness journey, and lots of support.",
+          "image": "/icons/app.png"
+        },
+        {
+          "name": "Web Development",
+          "text": "You will receive a customized plan for your fitness journey, and lots of support.",
+          "image": "/icons/fast.png"
+        }
+      ]
+    },
+    "section-2": [
+      {
+        "name": "Web Development",
+        "title": "Bolder Landingpage",
+        "text": "Serrow restructured and designed core pages, creating interactive elements that put users in control and allowed them to discover the information needed to make a decision."
+      },
+      {
+        "name": "Web Development",
+        "title": "Kerja Mantul Education Management",
+        "text": "Serrow restructured and designed core pages, creating interactive elements that put users in control and allowed them to discover the information needed to make a decision."
+      }
+    ]
+  },
+  "comments:": [
+    {
+      "name": "Sara Ahmadi",
+      "subject": "CTO, Future Enterprises",
+      "text": "Frequently Asked Questions.",
+      "image": "/profile/woman.png"
+    },
+    {
+      "name": "Ali Rezaei",
+      "subject": "Marketing Manager at ParsWeb Company",
+      "text": "Since our new website was designed by , our conversion rate has significantly increased. The attractive design and excellent user experience have had a great impact on our success.",
+      "image": "/profile/man2.png"
+    },
+    {
+      "name": "John Smith",
+      "subject": "Project Manager at NextGen Software Company",
+      "text": " has a creative and professional team that always delivers innovative solutions. Working with them meant improving the quality of our services.",
+      "image": "/profile/man.png"
+    },
+    {
+      "name": "Leila Mousavi",
+      "subject": "Founder of Digital Health Startup",
+      "text": "With the help of , our health app was developed with a professional design and high performance. Our users are very satisfied with its functionality.",
+      "image": "/profile/woman2.png"
+    }
+  ],
+  "linkMenu": [
+    {
+      "title": "Home",
+      "link": [
+        {
+          "name": "Benefits",
+          "url": "#"
+        },
+        {
+          "name": "Our Testimonials",
+          "url": "#"
+        },
+        {
+          "name": "Partners",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Services",
+      "link": [
+        {
+          "name": "Web Design",
+          "url": "#"
+        },
+        {
+          "name": "Website Development",
+          "url": "#"
+        },
+        {
+          "name": "App Development",
+          "url": "#"
+        },
+        {
+          "name": "Digital Marketing",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Projects",
+      "link": [
+        {
+          "name": "ABC Tech Solutions",
+          "url": "#"
+        },
+        {
+          "name": "GreenEarth Eco Store",
+          "url": "#"
+        },
+        {
+          "name": "HealthTech Innovations",
+          "url": "#"
+        },
+        {
+          "name": "GlobalTech Solutions",
+          "url": "#"
+        },
+        {
+          "name": "TechGuru Inc.",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "About Us",
+      "link": [
+        {
+          "name": "Our Team",
+          "url": "#"
+        },
+        {
+          "name": "Achievements",
+          "url": "#"
+        },
+        {
+          "name": "Awards",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Careers",
+      "link": [
+        {
+          "name": "Job Openings",
+          "url": "#"
+        },
+        {
+          "name": "Benefits & Perks",
+          "url": "#"
+        },
+        {
+          "name": "Employee Refral",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Blogs",
+      "link": [
+        {
+          "name": "Our Blogs",
+          "url": "#"
+        }
+      ]
+    }
+  ],
+  "lastBox": {
+    "header": {
+      "dark": "Our ",
+      "light": "Partners and Clients",
+      "text": "We are grateful for the opportunity to work with esteemed partners and clients. Our strong relationships are a testament to our dedication and expertise in the digital realm."
+    },
+    "arrayBox": [
+      {
+        "img1": "/logo.png",
+        "img2": "/flower/Logo.png",
+        "name": "ABC Tech Solutions",
+        "text": "A leading technology firm that trusted  to develop their responsive website, showcasing their cutting-edge products and services."
+      },
+      {
+        "img1": "/logo.png",
+        "img2": "/flower/Logo2.png",
+        "name": "GreenEarth Eco Store",
+        "text": " collaborated with GreenEarth Eco Store to create an engaging e-commerce platform that promotes sustainable living and eco-friendly products."
+      },
+      {
+        "img1": "/logo.png",
+        "img2": "/flower/Logo3.png",
+        "name": "HealthTech Innovations",
+        "text": " developed a user-centric mobile app for HealthTech Innovations, helping them revolutionize the way people track and manage their health."
+      },
+      {
+        "img1": "/logo.png",
+        "img2": "/flower/Logo4.png",
+        "name": "GlobalTech Solutions",
+        "text": "GlobalTech Solutions partnered with  for a website redesign, resulting in a modern interface that elevates their online presence."
+      },
+      {
+        "img1": "/logo.png",
+        "img2": "/flower/Logo4.png",
+        "name": "TechGuru Inc.",
+        "text": "'s digital marketing strategies boosted TechGuru Inc.'s online visibility and customer engagement, driving significant business growth."
+      },
+      {
+        "img1": "/logo.png",
+        "img2": "/flower/Logo4.png",
+        "name": "ArtScape Gallery",
+        "text": " brought ArtScape Gallery's artistic vision to life with a visually stunning website, showcasing the work of talented artists."
+      }
+    ]
+  },
+  "Payment": {
+    "terms": "Terms and Conditions",
+    "textTerms": {
+      "create": "Last Updated: [Update Date]",
+      "name": "Please read the following terms and conditions carefully before using this website. Accessing, using, or purchasing from this website constitutes acceptance of all the terms outlined below.",
+      "array": [
+        {
+          "name": "1. Nature of the Website and User Responsibilities",
+          "texts": [
+            "1. This website is a digital product marketplace that sells scripts and pre-made code files for professionals in web development and programming.",
+            "2. The files available on this site may be:",
+            "• Ready-made scripts sourced from various platforms.",
+            "• Fully developed by our team.",
+            "• Modified and optimized by us.",
+            "3. Buyers make purchases with full awareness and acknowledge that they understand the nature and features of the product.",
+            "4. The buyer is solely responsible for the use of the purchased files, and the website assumes no responsibility for any potential issues arising from their usage.",
+            "5. Users must carefully review the product details before purchasing, as all sales are final, and refunds or exchanges are not available."
+          ]
+        },
+        {
+          "name": "2. Purchasing and Downloading Products",
+          "texts": [
+            "1. Payments on the site are processed through official and secure payment gateways.",
+            "2. Once the payment is completed, the download link will be provided to the buyer.",
+            "3. Some products may have a limited number of downloads. The allowed number of downloads is specified on the product page, and once exceeded, the product cannot be re-downloaded.",
+            "4. Buyers must download and store their purchased files immediately after purchase. If a file is lost, the website holds no responsibility for reissuing it."
+          ]
+        },
+        {
+          "name": "3. Product Support Policy",
+          "texts": [
+            "1. Not all products come with support. Support is only available if explicitly stated in the product details.",
+            "2. The support period (if provided) is clearly mentioned during the purchase, and after this period expires, no further support will be available.",
+            "3. Support (if available) only includes guidance on how to use the product. It does not cover customizations, modifications, or issues caused by user alterations."
+          ]
+        },
+        {
+          "name": "4. No Refund Policy",
+          "texts": [
+            "1. Due to the digital nature of the products, all sales are final, and no refunds will be issued after purchase.",
+            "2. Users are responsible for reviewing product details before making a purchase.",
+            "3. If a file has a technical issue, a corrected version may be provided upon verification, but refunds are still not an option."
+          ]
+        },
+        {
+          "name": "5. Intellectual Property Rights",
+          "texts": [
+            "1. All intellectual property rights of this website are reserved. Redistributing, reselling, or sharing purchased products without permission is strictly prohibited and will result in legal action.",
+            "2. Users agree to use purchased files only for personal use and not to distribute them publicly."
+          ]
+        },
+        {
+          "name": "6. No User Registration",
+          "texts": [
+            "1. This website does not provide user accounts or registration options.",
+            "2. All purchases and downloads are processed without user registration."
+          ]
+        },
+        {
+          "name": "7. Copyright and Content Usage Restrictions",
+          "texts": [
+            "1. All website content, including product descriptions, text, images, and scripts, is protected under intellectual property laws. Unauthorized copying, redistribution, or resale is strictly prohibited.",
+            "2. If a purchased product is found being distributed on other websites or platforms, we reserve the right to take legal action."
+          ]
+        },
+        {
+          "name": "8. Changes to Terms and Conditions",
+          "texts": [
+            "1. This website reserves the right to change these terms and conditions at any time without prior notice.",
+            "2. Users must check this page periodically to stay updated on any modifications."
+          ]
+        },
+        {
+          "name": "9. No Liability for Product Issues",
+          "texts": [
+            "1. All products are sold “as-is”, and the website provides no guarantees regarding their performance, compatibility, or error-free functionality.",
+            "2. The buyer is solely responsible for proper installation, execution, and usage of the purchased files."
+          ]
+        },
+        {
+          "name": "10. Buyer’s Legal Responsibilities",
+          "texts": [
+            "1. Buyers must ensure that their use of purchased products complies with the laws of their respective countries.",
+            "2. If a product is used in violation of legal regulations, causes harm, or results in legal liability, the buyer assumes full responsibility, and the website is not accountable.",
+            "3. If a user is found using products illegally, the website has the right to restrict their access and take legal action if necessary."
+          ]
+        },
+        {
+          "name": "11. Right to Discontinue Services",
+          "texts": [
+            "1. The website reserves the right to discontinue or remove any product or service at any time without prior notice.",
+            "2. If a product is removed from the website, previous buyers will not be entitled to future downloads or replacements."
+          ]
+        }
+      ],
+      "lastText": "- By purchasing from this website, the user acknowledges that they have read, understood, and accepted all the above terms without objection."
+    }
+  }
+}
